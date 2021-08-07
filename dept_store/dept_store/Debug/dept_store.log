@@ -1,0 +1,38 @@
+﻿  dept_store.cpp
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(141,15): error C2131: expression did not evaluate to a constant
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(141,15): message : failure was caused by a read of a variable outside its lifetime
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(141,15): message : see usage of 'num'
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(193,24): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(186,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(208,5): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(223,4): error C3861: 'getline': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(289,7): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(315,56): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(315,89): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(316,56): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(316,88): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(317,56): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(317,88): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(313,19): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(327,16): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(328,64): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(328,100): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(329,60): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(329,93): error C3861: 'to_string': identifier not found
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(325,19): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(357,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(491,23): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(523,4): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(531,4): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(539,4): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(656,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(662,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(668,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(675,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(683,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(691,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(721,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(727,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(734,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(765,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\C codes\dept\dept_store\dept_store\dept_store.cpp(780,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
